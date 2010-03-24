@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='shop'>
+
+  <inherits name='com.google.gwt.user.User'/>
+  
+  <inherits name="com.smartgwt.SmartGwt"/>
+
+  <entry-point class='com.tddd24.shop.client.Shop'/>
+
+  <source path='client'/>
+
+</module>
